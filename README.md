@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaronmq96
+- 👋 Hi, I’m Aaron
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Java Springboot
 - 📫 How to reach me aaronmq96@gmail.com
